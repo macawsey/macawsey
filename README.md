@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://rentry.co/withering">Rentry</a>.　　Hey, im Ortho!　Usually @ the bakery.
+<a href="https://rentry.co/withering">Rentry</a>.　　Hey, im Ortho!　Usually by the bakery.
 </div>
 <div align="center">
 I only come to MYCT for <a href="https://github.com/Hymngel">Tor</a> whom forced me into Uu..
