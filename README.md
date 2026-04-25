@@ -2,7 +2,7 @@
 <a href="https://rentry.co/withering">rentry</a>.　　Hey, im Ortho!　Usually @ the bakery.
 </div>
 <div align="center">
-I only come to MYCT for Tor whom forced me into Uu..
+I only come to MYCT for <a href="https://github.com/Hymngel">Tor</a> whom forced me into Uu..
 </div>
 <div align="center">
 Im kinda newgen nd not very knowledgeable.　I try my
